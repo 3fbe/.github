@@ -5,7 +5,9 @@
 ![GitHub issues](https://img.shields.io/github/issues/serafindustries/.github)
 ![Latest commit](https://img.shields.io/github/last-commit/serafindustries/.github?style=flat-square)
 
-Specialized in CyberSecurity and App development, IT Solutions at your fingerprint (yes literally we prefer Emails)
+Specialized in CyberSecurity and App development, IT Solutions at your fingerprint (yes literally we prefer Emails). We offer Software, Devops and Infrastructure Consulting Services for your teams since 2019.
+
+We'll build tailored Software for your IT needs from the ground up with focus on Maintainability, Robustness and CyberSecurity, let's discuss about it!
 
 </div>
 

@@ -1,9 +1,9 @@
 <div align="center">
 
-## Seraf's Industries Incorporated
+## 3fbe Software
 
-![GitHub issues](https://img.shields.io/github/issues/serafindustries/.github)
-![Latest commit](https://img.shields.io/github/last-commit/serafindustries/.github?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/3fbe/.github)
+![Latest commit](https://img.shields.io/github/last-commit/3fbe/.github?style=flat-square)
 
 Specialized in CyberSecurity and App development, IT Solutions at your fingerprint (yes literally we prefer Emails). We offer Software, Devops and Infrastructure Consulting Services for your teams since 2019.
 
